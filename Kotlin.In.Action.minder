@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<minder version="1.13.1">
+  <theme name="dark" label="Escuro" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="480" y="0" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="252.5" posy="506.5" width="112" height="70" side="left" fold="false" treesize="140" layout="Para a direita" group="false">
+      <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+      <nodename posx="275.5" posy="529.5" maxwidth="300">
+        <text data="Kotlin"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="474.5" posy="471.5" width="134" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+          <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+          <nodename posx="497.5" posy="494.5" maxwidth="300">
+            <text data="Part One"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="474.5" posy="541.5" width="134" height="70" side="right" fold="false" treesize="70" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+          <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+          <nodename posx="497.5" posy="564.5" maxwidth="300">
+            <text data="Part Two"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
