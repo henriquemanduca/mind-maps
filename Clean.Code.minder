@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<minder version="1.13.1">
+  <theme name="dark" label="Escuro" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="523.64990234375" y="81.73187255859375" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="377.35009765625" posy="425.26812744140625" width="165" height="69" side="left" fold="false" treesize="69" layout="Para a direita" group="false">
+      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="401.35009765625" posy="449.26812744140625" maxwidth="400">
+        <text data="Clean Code Book"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
