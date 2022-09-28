@@ -1,643 +1,63 @@
 <?xml version="1.0"?>
 <minder version="1.13.1">
-  <theme name="dark" label="Escuro" index="-1"/>
+  <theme name="dark" label="Escuro" index="1"/>
   <styles>
-    <style level="0" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="1" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="2" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="3" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="4" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="5" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="6" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="7" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="8" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="9" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
-    <style level="10" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="0" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="2" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="272.53530187774072" y="286.20190429688137" scale="1"/>
+  <drawarea x="959.09529973612371" y="1016.7464710446843" scale="0.5"/>
   <images>
     <image id="1" uri="" ext=".png"/>
     <image id="2" uri="" ext=".png"/>
     <image id="3" uri="" ext=".png"/>
+    <image id="4" uri="" ext=".png"/>
+    <image id="5" uri="" ext=".png"/>
+    <image id="6" uri="" ext=".png"/>
+    <image id="7" uri="" ext=".png"/>
+    <image id="8" uri="" ext=".png"/>
+    <image id="9" uri="" ext=".png"/>
   </images>
   <nodes>
-    <node id="0" posx="108.50742273163632" posy="-1810.2348612467547" width="249" height="70" link="75" side="left" fold="false" treesize="944.00000000000045" layout="Para a direita" group="false">
+    <node id="81" posx="-499.69287460591477" posy="-1894.8766844642792" width="82" height="70" side="left" fold="false" treesize="314" layout="Para a esquerda" group="false">
       <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="130.50742273163632" posy="-1788.2348612467547" maxwidth="400">
-        <text data="SPRING FRAMEWORK"/>
-      </nodename>
-      <nodenote></nodenote>
-      <nodes>
-        <node id="1" posx="485.50742273163632" posy="-2022.7348612467558" width="254" height="65" side="right" fold="false" treesize="514" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="507.50742273163632" posy="-2000.7348612467558" maxwidth="400">
-            <text data="Design Principles and Patterns"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="2" posx="867.50742273163587" posy="-2247.2348612467549" width="436" height="86" side="right" fold="false" treesize="86" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="889.50742273163587" posy="-2225.2348612467549" maxwidth="400">
-                <text data="Provide choice at every level. Spring lets you defer design decisions as late as possible"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="3" posx="867.50742273163587" posy="-2161.2348612467558" width="441" height="107" side="right" fold="false" treesize="107" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="889.50742273163587" posy="-2139.2348612467558" maxwidth="400">
-                <text data="Accommodate diverse perspectives. Spring embraces flexibility and is not opinionated about how things should be done."/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="4" posx="867.50742273163587" posy="-2054.2348612467558" width="391" height="107" side="right" fold="false" treesize="107" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="889.50742273163587" posy="-2032.2348612467558" maxwidth="400">
-                <text data="Maintain strong backward compatibility. Spring&#x2019;s evolution has been carefully managed to force few breaking changes between versions."/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="5" posx="867.50742273163587" posy="-1947.2348612467551" width="431" height="107" side="right" fold="false" treesize="107" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="889.50742273163587" posy="-1925.2348612467551" maxwidth="400">
-                <text data="Care about API design. The Spring team puts a lot of thought and time into making APIs that are intuitive and that hold up across many versions and many years."/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="6" posx="867.50742273163587" posy="-1840.2348612467542" width="397" height="107" side="right" fold="false" treesize="107" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="889.50742273163587" posy="-1818.2348612467542" maxwidth="400">
-                <text data="Set high standards for code quality. The Spring Framework puts a strong emphasis on meaningful, current, and accurate Javadocs"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="7" posx="485.50742273163632" posy="-1679.7348612467547" width="158" height="65" side="right" fold="false" treesize="172" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="507.50742273163632" posy="-1657.7348612467547" maxwidth="400">
-            <text data="Spring WEB Flux"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="8" posx="771.50742273163678" posy="-1733.2348612467547" width="420" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="793.50742273163678" posy="-1711.2348612467547" maxwidth="400">
-                <text data="Introduced in version 5, with a fully non-blocking stack that supports Reactive Streams back pressure"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="9" posx="771.50742273163678" posy="-1636.7348612467547" width="159" height="65" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="793.50742273163678" posy="-1614.7348612467547" maxwidth="400">
-                <text data="Project REACTOR"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="10" posx="1058.5074227316354" posy="-1647.2348612467547" width="384" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1080.5074227316354" posy="-1625.2348612467547" maxwidth="400">
-                    <text data="Reactor is the reactive library of choice for Spring WebFlux. It provides the Mono and Flux API types"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-          </nodes>
-        </node>
-        <node id="11" posx="485.50742273163632" posy="-1507.7348612467538" width="160" height="65" side="right" fold="false" treesize="172" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="507.50742273163632" posy="-1485.7348612467538" maxwidth="400">
-            <text data="Spring WEB MVC"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="12" posx="773.50742273163678" posy="-1561.2348612467538" width="441" height="107" side="right" fold="false" treesize="107" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="795.50742273163678" posy="-1539.2348612467538" maxwidth="400">
-                <text data="Spring makes it easy to create Java enterprise applications because it provides everything that a developer needs to embrace the Java language in an enterprise environment."/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="13" posx="773.50742273163678" posy="-1454.2348612467538" width="340" height="65" side="right" fold="false" treesize="65" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="795.50742273163678" posy="-1432.2348612467538" maxwidth="400">
-                <text data="A arquitetura MVC (Model-View-Controller) "/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="14" posx="485.50742273163632" posy="-1389.2348612467533" width="419" height="86" side="right" fold="false" treesize="86" color="#3689e6" colorroot="true" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="507.50742273163632" posy="-1367.2348612467533" maxwidth="400">
-            <text data="Absolutely no code generation and no requirement for XML configuration."/>
-          </nodename>
-          <nodenote></nodenote>
-        </node>
-      </nodes>
-    </node>
-    <node id="15" posx="133.24765710663632" posy="502.88732910155863" width="183" height="70" link="0" side="left" fold="false" treesize="3597" layout="Para a direita" group="false">
-      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="155.24765710663632" posy="524.88732910155863" maxwidth="400">
-        <text data="SPRING BOOT"/>
-      </nodename>
-      <nodenote></nodenote>
-      <nodes>
-        <node id="16" posx="444.24765710663632" posy="-1056.1126708984409" width="429" height="107" side="right" fold="false" treesize="516" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="-1034.1126708984409" maxwidth="400">
-            <text data="Spring Boot defines a way to easily create Spring applications and a programming model that follows the best practices for Spring apps."/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="17" posx="1001.2476571066354" posy="-1260.6126708984409" width="443" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1023.2476571066354" posy="-1238.6126708984409" maxwidth="400">
-                <text data="cloud native applications that follow the 12 factor patterns developed"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="18" posx="1001.2476571066354" posy="-1174.6126708984409" width="432" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1023.2476571066354" posy="-1152.6126708984409" maxwidth="400">
-                <text data="better productivity by reducing time of development and&#10;deployment"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="19" posx="1001.2476571066354" posy="-1088.6126708984409" width="377" height="65" side="right" fold="false" treesize="65" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1023.2476571066354" posy="-1066.6126708984409" maxwidth="400">
-                <text data="Enterprise-Production-Ready Spring applications"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="20" posx="1001.2476571066354" posy="-970.11267089844114" width="320" height="86" link="33" side="right" fold="false" treesize="193" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1023.2476571066354" posy="-948.11267089844114" maxwidth="400">
-                <text data="non-functional requirements, like the &#10;Spring Boot Actuator"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="21" posx="1449.2476571066354" posy="-1023.6126708984409" width="469" height="107" side="right" fold="false" treesize="107" color="#f9c440" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1525.2476571066354" posy="-1001.6126708984409" maxwidth="400">
-                    <text data="Module that provides metrics with the new platform-&#10;agnostic Micrometer, health checks, and management&#10;https://micrometer.io"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="22" posx="1449.2476571066354" posy="-916.61267089844137" width="378" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1471.2476571066354" posy="-894.61267089844137" maxwidth="400">
-                    <text data="Embedded containers for running web&#10;applications (Tomcat, Netty, Undertow, Jetty, etc.)"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-            <node id="23" posx="1001.2476571066354" posy="-830.61267089844159" width="431" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1023.2476571066354" posy="-808.61267089844159" maxwidth="400">
-                <text data="Spring Boot allows developers to focus only on business logic, leaving the heavy lifting to the Spring Framework"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="24" posx="444.24765710663632" posy="-582.11267089844159" width="459" height="107" side="right" fold="false" treesize="432" color="#bbbbbb" colorroot="true" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="-560.11267089844159" maxwidth="400">
-            <text data="Spring Boot is the Spring Framework! &#10;You can look at Spring Boot as a new way to create Spring applications with ease."/>
-          </nodename>
-          <nodenote>Spring Boot simplifies the way we develop because it makes it easy to create production-ready Spring-based applications that you can &#x201C;just run.&#x201D; You will find out that with Spring Boot, you can create stand-alone applications with an embedded server
-(Tomcat by default, or Netty if you are using the new web-reactive modules)</nodenote>
-          <nodes>
-            <node id="25" posx="1031.2476571066354" posy="-744.61267089844159" width="359" height="92" side="right" fold="false" treesize="92" color="#bbbbbb" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1107.2476571066354" posy="-719.61267089844159" maxwidth="400">
-                <text data="Spring Boot&#10;https://spring.io/projects/spring-boot/"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="26" posx="1031.2476571066354" posy="-652.61267089844159" width="497" height="107" side="right" fold="false" treesize="107" color="#bbbbbb" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1107.2476571066354" posy="-630.61267089844159" maxwidth="400">
-                <text data="Spring Boot Reference Documentation&#10;https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="27" posx="1031.2476571066354" posy="-461.61267089844154" width="191" height="65" side="right" fold="false" treesize="233" color="#bbbbbb" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1053.2476571066354" posy="-439.61267089844154" maxwidth="400">
-                <text data="Opinionated Runtime"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="28" posx="1350.2476571066336" posy="-545.61267089844159" width="434" height="233" side="right" fold="false" treesize="233" color="#bbbbbb" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1372.2476571066336" posy="-523.61267089844159" maxwidth="400">
-                    <text data="It lock or guides you into their way of doing things.&#10;For example: &#10;Some people believe that a templaete system shouldn't provide access to user defined methods and functions as it leaves the system open to returning raw HTML. &#10;So an opinionated framework developer only allows access to data structures. By design, the software is limiting and encourages the designer into doing things their way."/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-          </nodes>
-        </node>
-        <node id="29" posx="444.24765710663632" posy="-240.11267089844114" width="120" height="92" side="right" fold="false" treesize="237" color="#7a36b1" colorroot="false" layout="Para a direita" sticker="support" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="520.24765710663632" posy="-204.61267089844114" maxwidth="400">
-            <text data="CLI"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="30" posx="692.24765710663678" posy="-312.61267089844114" width="346" height="65" side="right" fold="false" treesize="65" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="714.24765710663678" posy="-290.61267089844114" maxwidth="400">
-                <text data="One of the many ways to create Spring apps"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="31" posx="692.24765710663678" posy="-247.61267089844114" width="439" height="86" side="right" fold="false" treesize="86" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="714.24765710663678" posy="-225.61267089844114" maxwidth="400">
-                <text data="Finds out about your app and it injects the missing pieces to have a full Spring web app up and running."/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="32" posx="692.24765710663678" posy="-161.61267089844114" width="424" height="86" side="right" fold="false" treesize="86" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="714.24765710663678" posy="-139.61267089844114" maxwidth="400">
-                <text data="The perfect player for a quick prototype of Spring cloud applications"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="33" posx="444.24765710663632" posy="-75.612670898441138" width="102" height="65" side="right" fold="false" treesize="65" color="#3689e6" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="-53.612670898441138" maxwidth="400">
-            <text data="Actuator"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="34" posx="674.24765710663678" posy="-75.612670898441138" width="50" height="65" side="right" fold="false" treesize="65" color="#3689e6" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="696.24765710663678" posy="-53.612670898441138" maxwidth="400">
-                <text data="?"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="35" posx="444.24765710663632" posy="-10.612670898441138" width="218" height="65" side="right" fold="false" treesize="65" color="#f37329" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="11.387329101558862" maxwidth="400">
-            <text data="Embedded Tomcat server"/>
-          </nodename>
-          <nodenote></nodenote>
-        </node>
-        <node id="36" posx="444.24765710663632" posy="64.887329101558862" width="149" height="65" side="right" fold="false" treesize="86" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="86.887329101558862" maxwidth="400">
-            <text data="Spring Initializr"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="37" posx="721.24765710663678" posy="54.387329101558862" width="375" height="86" side="right" fold="false" treesize="86" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="743.24765710663678" posy="76.387329101558862" maxwidth="400">
-                <text data="Tool that can help us start a Spring Boot project &#10;https://start.spring.io/"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-          </nodes>
-        </node>
-        <node id="38" posx="444.24765710663632" posy="301.88732910155886" width="269" height="65" side="right" fold="false" treesize="388" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="323.88732910155886" maxwidth="400">
-            <text data="Application Model Dependencies"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="39" posx="841.2476571066361" posy="193.88732910155886" width="307" height="65" side="right" fold="false" treesize="172" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="863.2476571066361" posy="215.88732910155886" maxwidth="400">
-                <text data="A build/dependency management tool"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="40" posx="1276.2476571066354" posy="150.88732910155886" width="105" height="65" link="82" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1298.2476571066354" posy="172.88732910155886" maxwidth="400">
-                    <text data="Maven"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="41" posx="1509.2476571066354" posy="140.38732910155886" width="208" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1531.2476571066354" posy="162.38732910155886" maxwidth="400">
-                        <text data="To run your application:&#10;./mvnw spring-boot:run"/>
-                      </nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="42" posx="1276.2476571066354" posy="236.88732910155886" width="106" height="65" link="80" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1298.2476571066354" posy="258.88732910155886" maxwidth="400">
-                    <text data="Gradle"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="43" posx="1510.2476571066354" posy="226.38732910155886" width="207" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1532.2476571066354" posy="248.38732910155886" maxwidth="400">
-                        <text data="To run your application:&#10;./gradlew bootRun."/>
-                      </nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-              </nodes>
-            </node>
-            <node id="44" posx="841.2476571066361" posy="312.38732910155886" width="421" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="863.2476571066361" posy="334.38732910155886" maxwidth="400">
-                <text data="The right dependency management and plugins within the building tool"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="45" posx="1390.2476571066354" posy="312.38732910155886" width="395" height="86" side="right" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1412.2476571066354" posy="334.38732910155886" maxwidth="400">
-                    <text data=" Add the required dependencies using spring-boot-starters"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-            <node id="46" posx="841.2476571066361" posy="430.88732910155875" width="269" height="65" side="right" fold="false" treesize="130" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="863.2476571066361" posy="452.88732910155875" maxwidth="400">
-                <text data="Create a main class that contains"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="47" posx="1238.2476571066354" posy="398.38732910155886" width="320" height="65" side="right" fold="false" treesize="65" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1260.2476571066354" posy="420.38732910155886" maxwidth="400">
-                    <text data="The @SpringBootApplication annotation"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="48" posx="1238.2476571066354" posy="463.38732910155875" width="436" height="65" side="right" fold="false" treesize="65" color="#68b723" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1260.2476571066354" posy="485.38732910155875" maxwidth="400">
-                    <text data="The SpringApplication.run statement in the main method"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-          </nodes>
-        </node>
-        <node id="49" posx="444.24765710663632" posy="1389.3873291015586" width="191" height="86" side="right" fold="false" treesize="1808" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="466.24765710663632" posy="1411.3873291015586" maxwidth="400">
-            <text data="Spring Boot Internals&#10;and Features"/>
-          </nodename>
-          <nodenote></nodenote>
-          <nodes>
-            <node id="50" posx="763.24765710663678" posy="528.38732910155841" width="312" height="65" side="right" fold="false" treesize="65" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="785.24765710663678" posy="550.38732910155841" maxwidth="400">
-                <text data="Everything is about auto-configuration!"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="51" posx="763.24765710663678" posy="814.88732910155727" width="230" height="92" side="right" fold="false" treesize="535" color="#f9c440" colorroot="true" layout="Para a direita" sticker="services" group="true">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="839.24765710663678" posy="850.38732910155727" maxwidth="400">
-                <text data="Auto-Configuration"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="52" posx="1121.2476571066354" posy="603.88732910155795" width="433" height="107" side="right" fold="false" treesize="128" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1143.2476571066354" posy="625.88732910155795" maxwidth="400">
-                    <text data="It configures your Spring Boot application according to your classpath, annotations, and any other configuration declarations"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="53" posx="1682.2476571066331" posy="593.38732910155795" width="419" height="128" side="right" fold="false" treesize="128" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1704.2476571066331" posy="615.38732910155795" maxwidth="400">
-                        <text data="When you create either a Maven or Gradle project, and you specify dependencies (pom.xml or build.gradle, respectively) you are helping Spring Boot to make a decision based on your dependencies."/>
-                      </nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="54" posx="1121.2476571066354" posy="721.38732910155727" width="432" height="107" side="right" fold="false" treesize="107" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1143.2476571066354" posy="743.38732910155727" maxwidth="400">
-                    <text data="Spring Boot starts by importing missing dependencies, such as the org.springframework.web.bind.annotation.* annotation, among other imports."/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="55" posx="1121.2476571066354" posy="828.38732910155727" width="406" height="107" side="right" fold="false" treesize="107" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1143.2476571066354" posy="850.38732910155727" maxwidth="400">
-                    <text data="It identifies that you need a spring-boot-starter-web because you marked your class and method with the&#10;@RestController and the @GetMapping annotations"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="56" posx="1121.2476571066354" posy="935.38732910155682" width="393" height="107" side="right" fold="false" treesize="107" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1143.2476571066354" posy="957.38732910155682" maxwidth="400">
-                    <text data="It adds the necessary annotation that triggers &#10;auto-configuration, the @EnableAutoConfiguration annotation"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="57" posx="1121.2476571066354" posy="1042.387329101557" width="430" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1143.2476571066354" posy="1064.387329101557" maxwidth="400">
-                    <text data="And then it adds the main method that is the entry point for the application"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-            <node id="58" posx="763.24765710663678" posy="1237.3873291015577" width="266" height="92" side="right" fold="false" treesize="310" color="#f9c440" colorroot="true" layout="Para a direita" sticker="puzzle" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="839.24765710663678" posy="1272.8873291015577" maxwidth="400">
-                <text data="@SpringBootApplication"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="59" posx="1157.247657106635" posy="1128.3873291015573" width="316" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1179.247657106635" posy="1150.3873291015573" maxwidth="400">
-                    <text data="inherits @EnableAutoConfiguration,&#10;@Configuration, and @ComponentScan"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-                <node id="60" posx="1157.247657106635" posy="1214.3873291015577" width="353" height="92" side="right" fold="false" treesize="92" color="#f9c440" colorroot="false" layout="Para a direita" sticker="puzzle" group="false">
-                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1233.247657106635" posy="1249.8873291015577" maxwidth="400">
-                    <text data="Disable a Specific Auto-Configuration"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="61" posx="1638.2476571066331" posy="1217.3873291015577" width="436" height="86" side="right" fold="false" treesize="86" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1660.2476571066331" posy="1239.3873291015577" maxwidth="400">
-                        <text data="@EnableAutoConfiguration(exclude=[ActiveMQAutoConfiguration.class])"/>
-                      </nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="62" posx="1157.247657106635" posy="1306.3873291015586" width="418" height="132" side="right" fold="false" treesize="132" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1181.247657106635" posy="1330.3873291015586" maxwidth="400">
-                    <text data="Em Aplicativos Spring, podemos usar essas anota&#xE7;&#xF5;es para seguir a Convetion Over Configuration (Padr&#xE3;o Conven&#xE7;&#xE3;o acima de Configura&#xE7;&#xE3;o), tornando seus aplicativos mais f&#xE1;ceis de desenvolver e manter."/>
-                  </nodename>
-                  <nodenote></nodenote>
-                </node>
-              </nodes>
-            </node>
-            <node id="63" posx="763.24765710663678" posy="1438.3873291015586" width="129" height="69" side="right" fold="false" treesize="69" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
-              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="787.24765710663678" posy="1462.3873291015586" maxwidth="400">
-                <text data="Spring Data"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="64" posx="763.24765710663678" posy="1507.3873291015586" width="139" height="69" side="right" fold="false" treesize="69" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
-              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="787.24765710663678" posy="1531.3873291015586" maxwidth="400">
-                <text data="Spring AMQP"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="65" posx="763.24765710663678" posy="1576.3873291015586" width="174" height="69" side="right" fold="false" treesize="69" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="787.24765710663678" posy="1600.3873291015586" maxwidth="400">
-                <text data="Spring Integration"/>
-              </nodename>
-              <nodenote></nodenote>
-            </node>
-            <node id="66" posx="763.24765710663678" posy="1942.8873291015591" width="161" height="96" side="right" fold="false" treesize="691" color="#f9c440" colorroot="false" layout="Para a direita" sticker="settings" group="false">
-              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="841.24765710663678" posy="1980.3873291015591" maxwidth="300">
-                <text data="Features"/>
-              </nodename>
-              <nodenote></nodenote>
-              <nodes>
-                <node id="67" posx="1032.2476571066354" posy="1774.3873291015577" width="170" height="69" side="right" fold="false" treesize="327" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1056.2476571066354" posy="1798.3873291015577" maxwidth="300">
-                    <text data="SpringApplication"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="68" posx="1310.2476571066336" posy="1666.3873291015586" width="182" height="69" side="right" fold="false" treesize="111" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1334.2476571066336" posy="1690.3873291015586" maxwidth="300">
-                        <text data=" ApplicationContext"/>
-                      </nodename>
-                      <nodenote></nodenote>
-                      <nodes>
-                        <node id="69" posx="1600.2476571066336" posy="1645.3873291015586" width="313" height="111" side="right" fold="false" treesize="111" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                          <nodename posx="1624.2476571066336" posy="1669.3873291015586" maxwidth="300">
-                            <text data="I recommend Pro Spring Framework 5 (Apress, 2017) ) in which the authors explain everything about Spring."/>
-                          </nodename>
-                          <nodenote></nodenote>
-                        </node>
-                      </nodes>
-                    </node>
-                    <node id="70" posx="1310.2476571066336" posy="1756.3873291015577" width="338" height="216" side="right" fold="false" treesize="216" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1334.2476571066336" posy="1780.3873291015577" maxwidth="300">
-                        <text data="This class provides the bootstrap for the Spring Boot application that is executed in the main method.&#10;&#10;Allows you to configure the way your app behaves, and you have control over the main ApplicationContext where all your Spring beans are used."/>
-                      </nodename>
-                      <nodenote></nodenote>
-                    </node>
-                  </nodes>
-                </node>
-                <node id="71" posx="1032.2476571066354" posy="2119.8873291015598" width="155" height="69" side="right" fold="false" treesize="364" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="1056.2476571066354" posy="2143.8873291015598" maxwidth="300">
-                    <text data="Custom Banner"/>
-                  </nodename>
-                  <nodenote></nodenote>
-                  <nodes>
-                    <node id="72" posx="1295.2476571066354" posy="2098.8873291015598" width="340" height="111" side="right" fold="false" treesize="364" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="1319.2476571066354" posy="2122.8873291015598" maxwidth="300">
-                        <text data="Every time you run your application, you see a banner displayed at the beginning of the application. It can be customized."/>
-                      </nodename>
-                      <nodenote></nodenote>
-                      <nodes>
-                        <node id="73" posx="1743.2476571066345" posy="1972.3873291015591" width="348" height="205" side="right" fold="false" treesize="205" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                          <nodeimage id="1" x="0" y="0" w="600" h="255"/>
-                          <nodename posx="1767.2476571066345" posy="2132.3873291015589" maxwidth="300">
-                            <text data=""/>
-                          </nodename>
-                          <nodenote></nodenote>
-                        </node>
-                        <node id="74" posx="1743.2476571066345" posy="2177.3873291015598" width="348" height="159" side="right" fold="false" treesize="159" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
-                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 11" nodemarkup="true"/>
-                          <nodeimage id="3" x="0" y="0" w="600" h="162"/>
-                          <nodename posx="1767.2476571066345" posy="2291.3873291015598" maxwidth="300">
-                            <text data=""/>
-                          </nodename>
-                          <nodenote></nodenote>
-                        </node>
-                      </nodes>
-                    </node>
-                  </nodes>
-                </node>
-              </nodes>
-            </node>
-          </nodes>
-        </node>
-      </nodes>
-    </node>
-    <node id="75" posx="-52.646548622531554" posy="-1825.2053476969529" width="82" height="70" side="left" fold="false" treesize="237" layout="Para a esquerda" group="false">
-      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="-30.646548622531554" posy="-1803.2053476969529" maxwidth="400">
+      <nodename posx="-477.69287460591477" posy="-1872.8766844642792" maxwidth="400">
         <text data="JAVA"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="76" posx="-328.64654862253178" posy="-1822.7053476969529" width="148" height="65" side="left" fold="false" treesize="237" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="-306.64654862253178" posy="-1800.7053476969529" maxwidth="400">
+        <node id="82" posx="-803.69287460591477" posy="-1894.8766844642792" width="176" height="70" side="left" fold="false" treesize="314" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
+          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+          <nodename posx="-781.69287460591477" posy="-1872.8766844642792" maxwidth="400">
             <text data="EE Applications"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="77" posx="-847.6465486225328" posy="-1908.7053476969534" width="391" height="86" side="left" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-825.6465486225328" posy="-1886.7053476969534" maxwidth="400">
+            <node id="83" posx="-1332.6928746059148" posy="-2016.8766844642801" width="401" height="122" side="left" fold="false" treesize="122" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1310.6928746059148" posy="-1994.8766844642801" maxwidth="400">
                 <text data="Are applications that conform to the Java Platform, Enterprise Edition (Java EE) specification"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="78" posx="-834.64654862253201" posy="-1822.7053476969529" width="378" height="86" side="left" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-812.64654862253201" posy="-1800.7053476969529" maxwidth="400">
+            <node id="84" posx="-1346.6928746059148" posy="-1894.8766844642792" width="415" height="96" side="left" fold="false" treesize="96" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1324.6928746059148" posy="-1872.8766844642792" maxwidth="400">
                 <text data="Before Java EE, the specification name was Java 2 Platform, Enterprise Edition (J2EE)."/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="79" posx="-888.64654862253246" posy="-1736.7053476969529" width="432" height="65" side="left" fold="false" treesize="65" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-866.64654862253246" posy="-1714.7053476969529" maxwidth="400">
+            <node id="85" posx="-1342.6928746059148" posy="-1798.8766844642796" width="411" height="96" side="left" fold="false" treesize="96" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1320.6928746059148" posy="-1776.8766844642796" maxwidth="400">
                 <text data="The term Java EE includes Java EE and J2EE specifications."/>
               </nodename>
               <nodenote></nodenote>
@@ -646,81 +66,81 @@
         </node>
       </nodes>
     </node>
-    <node id="80" posx="-304.98160807291811" posy="-1649.3100952683892" width="102" height="70" side="left" fold="false" treesize="86" layout="Para a esquerda" group="false">
+    <node id="86" posx="-540.75565737587658" posy="-1479.8762010925079" width="102" height="70" side="left" fold="false" treesize="96" layout="Para a esquerda" group="false">
       <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="-282.98160807291811" posy="-1627.3100952683892" maxwidth="400">
+      <nodename posx="-518.75565737587658" posy="-1457.8762010925079" maxwidth="400">
         <text data="Gradle"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="81" posx="-822.98160807291833" posy="-1657.3100952683892" width="390" height="86" side="left" fold="false" treesize="86" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="-800.98160807291833" posy="-1635.3100952683892" maxwidth="400">
+        <node id="87" posx="-1093.7556573758766" posy="-1492.8762010925079" width="425" height="96" side="left" fold="false" treesize="96" color="#68b723" colorroot="false" layout="Para a esquerda" group="false">
+          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+          <nodename posx="-1071.7556573758766" posy="-1470.8762010925079" maxwidth="400">
             <text data="You have access to the AST (abstract syntax tree) at runtime"/>
           </nodename>
           <nodenote></nodenote>
         </node>
       </nodes>
     </node>
-    <node id="82" posx="-131.78922526041788" posy="-1639.1218047560408" width="103" height="70" side="left" fold="false" treesize="70" layout="Para a direita" group="false">
+    <node id="88" posx="-609.59814521490966" posy="-1085.5774098845895" width="103" height="70" side="left" fold="false" treesize="70" layout="Para a direita" group="false">
       <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="-109.78922526041788" posy="-1617.1218047560408" maxwidth="400">
+      <nodename posx="-587.59814521490966" posy="-1063.5774098845895" maxwidth="400">
         <text data="Maven"/>
       </nodename>
       <nodenote></nodenote>
     </node>
-    <node id="83" posx="-303.00048828125023" posy="495.83545028953426" width="265" height="70" side="left" fold="false" treesize="543" layout="Para a esquerda" group="false">
+    <node id="89" posx="-337.49587025421715" posy="139.53803523443435" width="265" height="70" side="left" fold="false" treesize="650" layout="Para a esquerda" group="false">
       <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
-      <nodename posx="-281.00048828125023" posy="517.83545028953426" maxwidth="400">
+      <nodename posx="-315.49587025421715" posy="161.53803523443435" maxwidth="400">
         <text data="THE TWELVE-FACTOR APP"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="84" posx="-663.00048828125023" posy="259.33545028953449" width="232" height="92" side="left" fold="false" treesize="92" color="#7a36b1" colorroot="false" layout="Para a esquerda" sticker="broken_link" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="-587.00048828125023" posy="294.83545028953449" maxwidth="400">
+        <node id="90" posx="-740.49587025421715" posy="-150.46196476556429" width="275" height="92" side="left" fold="false" treesize="92" color="#f37329" colorroot="true" layout="Para a esquerda" sticker="broken_link" group="false">
+          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+          <nodename posx="-664.49587025421715" posy="-117.46196476556429" maxwidth="400">
             <text data="https://12factor.net/"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="85" posx="-872.00048828125" posy="544.33545028953404" width="441" height="65" side="left" fold="false" treesize="451" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="-850.00048828125" posy="566.33545028953404" maxwidth="400">
+        <node id="91" posx="-861.49587025421715" posy="172.53803523443435" width="396" height="96" side="left" fold="false" treesize="558" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+          <nodename posx="-839.49587025421715" posy="194.53803523443435" maxwidth="400">
             <text data="Methodology for building software-as-a-service apps that:"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="86" posx="-1419.0004882812505" posy="351.33545028953438" width="419" height="107" side="left" fold="false" treesize="107" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-1397.0004882812505" posy="373.33545028953438" maxwidth="400">
+            <node id="92" posx="-1403.4958702542172" posy="-58.461964765565199" width="414" height="122" side="left" fold="false" treesize="122" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1381.4958702542172" posy="-36.461964765565199" maxwidth="400">
                 <text data="Use declarative formats for setup automation, to minimize time and cost for new developers joining the project;"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="87" posx="-1437.0004882812505" posy="458.33545028953438" width="437" height="107" side="left" fold="false" treesize="107" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-1415.0004882812505" posy="480.33545028953438" maxwidth="400">
+            <node id="93" posx="-1431.4958702542172" posy="63.538035234434574" width="442" height="122" side="left" fold="false" treesize="122" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1409.4958702542172" posy="85.538035234434574" maxwidth="400">
                 <text data="Have a clean contract with the underlying operating system, offering maximum portability between execution environments;"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="88" posx="-1429.0004882812505" posy="565.33545028953404" width="429" height="65" side="left" fold="false" treesize="65" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-1407.0004882812505" posy="587.33545028953404" maxwidth="400">
+            <node id="94" posx="-1382.4958702542172" posy="185.53803523443435" width="393" height="96" side="left" fold="false" treesize="96" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1360.4958702542172" posy="207.53803523443435" maxwidth="400">
                 <text data="Are suitable for deployment on modern cloud platforms"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="89" posx="-1379.0004882812505" posy="630.33545028953336" width="379" height="107" side="left" fold="false" treesize="107" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-1357.0004882812505" posy="652.33545028953336" maxwidth="400">
+            <node id="95" posx="-1420.4958702542172" posy="281.53803523443548" width="431" height="122" side="left" fold="false" treesize="122" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1398.4958702542172" posy="303.53803523443548" maxwidth="400">
                 <text data="Minimize divergence between development and production, enabling continuous deployment for maximum agility;"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="90" posx="-1423.0004882812505" posy="737.3354502895329" width="423" height="65" side="left" fold="false" treesize="65" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
-              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="-1401.0004882812505" posy="759.3354502895329" maxwidth="400">
+            <node id="96" posx="-1430.4958702542172" posy="403.53803523443548" width="441" height="96" side="left" fold="false" treesize="96" color="#3689e6" colorroot="false" layout="Para a esquerda" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+              <nodename posx="-1408.4958702542172" posy="425.53803523443548" maxwidth="400">
                 <text data="And can scale up without significant changes to tooling"/>
               </nodename>
               <nodenote></nodenote>
@@ -729,34 +149,685 @@
         </node>
       </nodes>
     </node>
+    <node id="98" posx="-977.17718535838321" posy="-628.75165796217152" width="300" height="74" side="left" fold="false" treesize="5654" layout="Para a direita" group="false">
+      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+      <nodename posx="-953.17718535838321" posy="-604.75165796217152" maxwidth="300">
+        <text data="LIVRO - PRO SPRING BOOT 2"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="99" posx="-569.17718535838321" posy="-729.25165796217243" width="248" height="275" side="right" fold="false" treesize="5654" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+          <nodeimage id="9" x="0" y="0" w="600" h="576"/>
+          <nodename posx="-545.17718535838321" posy="-504.25165796217243" maxwidth="300">
+            <text data=""/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="0" posx="-213.17718535838321" posy="-628.75165796217334" width="275" height="74" link="81" side="right" fold="false" treesize="5654" color="#7a36b1" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 16" nodemarkup="true"/>
+              <nodename posx="-191.17718535838321" posy="-606.75165796217334" maxwidth="400">
+                <text data="SPRING FRAMEWORK"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="14" posx="189.82281464161679" posy="-3418.751657962172" width="380" height="96" side="right" fold="false" treesize="96" color="#3689e6" colorroot="true" layout="Para a direita" group="false">
+                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                  <nodename posx="211.82281464161679" posy="-3396.751657962172" maxwidth="400">
+                    <text data="Absolutely no code generation and no requirement for XML configuration."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="1" posx="189.82281464161679" posy="-3039.7516579621729" width="315" height="70" side="right" fold="false" treesize="636" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                  <nodename posx="211.82281464161679" posy="-3017.7516579621729" maxwidth="400">
+                    <text data="Design Principles and Patterns"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="2" posx="632.8228146416177" posy="-3322.7516579621711" width="433" height="96" side="right" fold="false" treesize="96" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="654.8228146416177" posy="-3300.7516579621711" maxwidth="400">
+                        <text data="Provide choice at every level. Spring lets you defer design decisions as late as possible"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="3" posx="632.8228146416177" posy="-3226.7516579621729" width="421" height="122" side="right" fold="false" treesize="122" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="654.8228146416177" posy="-3204.7516579621729" maxwidth="400">
+                        <text data="Accommodate diverse perspectives. Spring embraces flexibility and is not opinionated about how things should be done."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="4" posx="632.8228146416177" posy="-3104.7516579621729" width="395" height="148" side="right" fold="false" treesize="148" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="654.8228146416177" posy="-3082.7516579621729" maxwidth="400">
+                        <text data="Maintain strong backward compatibility. Spring&#x2019;s evolution has been carefully managed to force few breaking changes between versions."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="5" posx="632.8228146416177" posy="-2956.7516579621729" width="437" height="148" side="right" fold="false" treesize="148" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="654.8228146416177" posy="-2934.7516579621729" maxwidth="400">
+                        <text data="Care about API design. The Spring team puts a lot of thought and time into making APIs that are intuitive and that hold up across many versions and many years."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="6" posx="632.8228146416177" posy="-2808.7516579621729" width="442" height="122" side="right" fold="false" treesize="122" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="654.8228146416177" posy="-2786.7516579621729" maxwidth="400">
+                        <text data="Set high standards for code quality. The Spring Framework puts a strong emphasis on meaningful, current, and accurate Javadocs"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="7" posx="189.82281464161679" posy="-2599.7516579621729" width="187" height="70" side="right" fold="false" treesize="244" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                  <nodename posx="211.82281464161679" posy="-2577.7516579621729" maxwidth="400">
+                    <text data="Spring WEB Flux"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="8" posx="504.82281464161679" posy="-2686.7516579621729" width="402" height="122" side="right" fold="false" treesize="122" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="526.82281464161679" posy="-2664.7516579621729" maxwidth="400">
+                        <text data="Introduced in version 5, with a fully non-blocking stack that supports Reactive Streams back pressure"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="9" posx="504.82281464161679" posy="-2538.7516579621729" width="193" height="70" side="right" fold="false" treesize="122" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="526.82281464161679" posy="-2516.7516579621729" maxwidth="400">
+                        <text data="Project REACTOR"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="10" posx="825.8228146416177" posy="-2564.7516579621729" width="415" height="122" side="right" fold="false" treesize="122" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="847.8228146416177" posy="-2542.7516579621729" maxwidth="400">
+                            <text data="Reactor is the reactive library of choice for Spring WebFlux. It provides the Mono and Flux API types"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="11" posx="189.82281464161679" posy="-2355.7516579621747" width="190" height="70" side="right" fold="false" treesize="244" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
+                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                  <nodename posx="211.82281464161679" posy="-2333.7516579621747" maxwidth="400">
+                    <text data="Spring WEB MVC"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="12" posx="507.82281464161679" posy="-2442.7516579621747" width="428" height="174" side="right" fold="false" treesize="174" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="529.82281464161679" posy="-2420.7516579621747" maxwidth="400">
+                        <text data="Spring makes it easy to create Java enterprise applications because it provides everything that a developer needs to embrace the Java language in an enterprise environment."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="13" posx="507.82281464161679" posy="-2268.7516579621738" width="424" height="70" side="right" fold="false" treesize="70" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="529.82281464161679" posy="-2246.7516579621738" maxwidth="400">
+                        <text data="A arquitetura MVC (Model-View-Controller) "/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+                <node id="15" posx="189.82281464161679" posy="-16.751657962171294" width="183" height="70" link="0" side="right" fold="false" treesize="4434.0000000000018" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
+                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                  <nodename posx="211.82281464161679" posy="5.2483420378287065" maxwidth="400">
+                    <text data="SPRING BOOT"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="16" posx="500.82281464161679" posy="-2198.7516579621738" width="410" height="148" side="right" fold="true" treesize="148" color="#f37329" colorroot="true" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-2176.7516579621738" maxwidth="400">
+                        <text data="Spring Boot defines a way to easily create Spring applications and a programming model that follows the best practices for Spring apps."/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="17" posx="1038.8228146416168" posy="-2490.7516579621738" width="422" height="96" side="right" fold="false" treesize="96" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1060.8228146416168" posy="-2468.7516579621738" maxwidth="400">
+                            <text data="cloud native applications that follow the 12 factor patterns developed"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="18" posx="1038.8228146416168" posy="-2394.7516579621729" width="384" height="122" side="right" fold="false" treesize="122" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1060.8228146416168" posy="-2372.7516579621729" maxwidth="400">
+                            <text data="better productivity by reducing time of development and&#10;deployment"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="19" posx="1038.8228146416168" posy="-2272.7516579621738" width="360" height="96" side="right" fold="false" treesize="96" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1060.8228146416168" posy="-2250.7516579621738" maxwidth="400">
+                            <text data="Enterprise-Production-Ready Spring applications"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="20" posx="1038.8228146416168" posy="-2076.7516579621738" width="396" height="96" link="33" side="right" fold="false" treesize="296" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1060.8228146416168" posy="-2054.7516579621738" maxwidth="400">
+                            <text data="non-functional requirements, like the &#10;Spring Boot Actuator"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="21" posx="1562.8228146416186" posy="-2176.7516579621738" width="477" height="174" side="right" fold="false" treesize="174" color="#f37329" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1638.8228146416186" posy="-2154.7516579621738" maxwidth="400">
+                                <text data="Module that provides metrics with the new platform-&#10;agnostic Micrometer, health checks, and management&#10;https://micrometer.io"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="22" posx="1562.8228146416186" posy="-2002.7516579621738" width="433" height="122" side="right" fold="false" treesize="122" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1584.8228146416186" posy="-1980.7516579621738" maxwidth="400">
+                                <text data="Embedded containers for running web&#10;applications (Tomcat, Netty, Undertow, Jetty, etc.)"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="23" posx="1038.8228146416168" posy="-1880.7516579621738" width="440" height="122" side="right" fold="false" treesize="122" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1060.8228146416168" posy="-1858.7516579621738" maxwidth="400">
+                            <text data="Spring Boot allows developers to focus only on business logic, leaving the heavy lifting to the Spring Framework"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="24" posx="500.82281464161679" posy="-1837.7516579621733" width="445" height="122" side="right" fold="false" treesize="548" color="#bbbbbb" colorroot="true" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-1815.7516579621733" maxwidth="400">
+                        <text data="Spring Boot is the Spring Framework! &#10;You can look at Spring Boot as a new way to create Spring applications with ease."/>
+                      </nodename>
+                      <nodenote>Spring Boot simplifies the way we develop because it makes it easy to create production-ready Spring-based applications that you can &#x201C;just run.&#x201D; You will find out that with Spring Boot, you can create stand-alone applications with an embedded server
+(Tomcat by default, or Netty if you are using the new web-reactive modules)</nodenote>
+                      <nodes>
+                        <node id="25" posx="1073.8228146416186" posy="-2050.7516579621738" width="433" height="96" side="right" fold="false" treesize="96" color="#bbbbbb" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1149.8228146416186" posy="-2028.7516579621738" maxwidth="400">
+                            <text data="Spring Boot&#10;https://spring.io/projects/spring-boot/"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="26" posx="1073.8228146416186" posy="-1954.7516579621742" width="448" height="122" side="right" fold="false" treesize="122" color="#bbbbbb" colorroot="false" layout="Para a direita" sticker="broken_link" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1149.8228146416186" posy="-1932.7516579621742" maxwidth="400">
+                            <text data="Spring Boot Reference Documentation&#10;https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="27" posx="1073.8228146416186" posy="-1702.7516579621738" width="235" height="70" side="right" fold="false" treesize="330" color="#bbbbbb" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="1095.8228146416186" posy="-1680.7516579621738" maxwidth="400">
+                            <text data="Opinionated Runtime"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="28" posx="1436.8228146416186" posy="-1832.7516579621733" width="444" height="330" side="right" fold="false" treesize="330" color="#bbbbbb" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1458.8228146416186" posy="-1810.7516579621733" maxwidth="400">
+                                <text data="It lock or guides you into their way of doing things.&#10;For example: &#10;Some people believe that a templaete system shouldn't provide access to user defined methods and functions as it leaves the system open to returning raw HTML. &#10;So an opinionated framework developer only allows access to data structures. By design, the software is limiting and encourages the designer into doing things their way."/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="29" posx="500.82281464161679" posy="-1404.7516579621715" width="126" height="92" side="right" fold="false" treesize="288" color="#3689e6" colorroot="true" layout="Para a direita" sticker="support" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="576.82281464161679" posy="-1371.7516579621715" maxwidth="400">
+                        <text data="CLI"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="30" posx="754.8228146416177" posy="-1502.7516579621715" width="433" height="70" side="right" fold="false" treesize="70" color="#3689e6" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="776.8228146416177" posy="-1480.7516579621715" maxwidth="400">
+                            <text data="One of the many ways to create Spring apps"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="31" posx="754.8228146416177" posy="-1432.7516579621706" width="432" height="122" side="right" fold="false" treesize="122" color="#3689e6" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="776.8228146416177" posy="-1410.7516579621706" maxwidth="400">
+                            <text data="Finds out about your app and it injects the missing pieces to have a full Spring web app up and running."/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="32" posx="754.8228146416177" posy="-1310.7516579621715" width="415" height="96" side="right" fold="false" treesize="96" color="#3689e6" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="776.8228146416177" posy="-1288.7516579621715" maxwidth="400">
+                            <text data="The perfect player for a quick prototype of Spring cloud applications"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="33" posx="500.82281464161679" posy="-1214.751657962172" width="120" height="70" side="right" fold="false" treesize="70" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-1192.751657962172" maxwidth="400">
+                        <text data="Actuator"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="34" posx="748.8228146416177" posy="-1214.751657962172" width="52" height="70" side="right" fold="false" treesize="70" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="770.8228146416177" posy="-1192.751657962172" maxwidth="400">
+                            <text data="?"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="35" posx="500.82281464161679" posy="-1144.751657962172" width="266" height="70" side="right" fold="false" treesize="70" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-1122.751657962172" maxwidth="400">
+                        <text data="Embedded Tomcat server"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="36" posx="500.82281464161679" posy="-1048.7516579621733" width="178" height="70" side="right" fold="false" treesize="122" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-1026.7516579621733" maxwidth="400">
+                        <text data="Spring Initializr"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="37" posx="806.8228146416177" posy="-1074.7516579621729" width="396" height="122" side="right" fold="false" treesize="122" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="828.8228146416177" posy="-1052.7516579621729" maxwidth="400">
+                            <text data="Tool that can help us start a Spring Boot project &#10;https://start.spring.io/"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="38" posx="500.82281464161679" posy="-760.75165796217198" width="334" height="70" side="right" fold="false" treesize="454" color="#7a36b1" colorroot="true" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="-738.75165796217198" maxwidth="400">
+                        <text data="Application Model Dependencies"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="39" posx="962.82281464161679" posy="-891.7516579621722" width="383" height="70" side="right" fold="false" treesize="192" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="984.82281464161679" posy="-869.7516579621722" maxwidth="400">
+                            <text data="A build/dependency management tool"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="40" posx="1473.8228146416186" posy="-939.75165796217334" width="119" height="70" link="88" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1495.8228146416186" posy="-917.75165796217334" maxwidth="400">
+                                <text data="Maven"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="41" posx="1720.8228146416186" posy="-952.75165796217334" width="253" height="96" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1742.8228146416186" posy="-930.75165796217334" maxwidth="400">
+                                    <text data="To run your application:&#10;./mvnw spring-boot:run"/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                </node>
+                              </nodes>
+                            </node>
+                            <node id="42" posx="1473.8228146416186" posy="-843.75165796217198" width="118" height="70" link="86" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1495.8228146416186" posy="-821.75165796217198" maxwidth="400">
+                                <text data="Gradle"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="43" posx="1719.8228146416186" posy="-856.75165796217198" width="253" height="96" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1741.8228146416186" posy="-834.75165796217198" maxwidth="400">
+                                    <text data="To run your application:&#10;./gradlew bootRun."/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                </node>
+                              </nodes>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="44" posx="962.82281464161679" posy="-760.75165796217198" width="400" height="96" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="984.82281464161679" posy="-738.75165796217198" maxwidth="400">
+                            <text data="The right dependency management and plugins within the building tool"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="45" posx="1490.8228146416186" posy="-760.75165796217198" width="381" height="96" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1512.8228146416186" posy="-738.75165796217198" maxwidth="400">
+                                <text data=" Add the required dependencies using spring-boot-starters"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="46" posx="962.82281464161679" posy="-616.75165796217289" width="334" height="70" side="right" fold="false" treesize="166" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="984.82281464161679" posy="-594.75165796217289" maxwidth="400">
+                            <text data="Create a main class that contains"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="47" posx="1424.8228146416186" posy="-664.75165796217289" width="397" height="70" side="right" fold="false" treesize="70" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1446.8228146416186" posy="-642.75165796217289" maxwidth="400">
+                                <text data="The @SpringBootApplication annotation"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="48" posx="1424.8228146416186" posy="-594.75165796217289" width="427" height="96" side="right" fold="false" treesize="96" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1446.8228146416186" posy="-572.75165796217289" maxwidth="400">
+                                <text data="The SpringApplication.run statement in the main method"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                    <node id="49" posx="500.82281464161679" posy="820.24834203782848" width="232" height="96" side="right" fold="false" treesize="2734.0000000000009" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                      <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                      <nodename posx="522.82281464161679" posy="842.24834203782848" maxwidth="400">
+                        <text data="Spring Boot Internals&#10;and Features"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="51" posx="860.82281464161679" posy="-139.7516579621722" width="267" height="92" side="right" fold="false" treesize="810" color="#c6262e" colorroot="true" layout="Para a direita" sticker="services" group="true">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="936.82281464161679" posy="-106.7516579621722" maxwidth="400">
+                            <text data="Auto-Configuration"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="50" posx="1255.8228146416168" posy="-498.75165796217243" width="388" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="-476.75165796217243" maxwidth="400">
+                                <text data="Everything is about auto-configuration!"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="52" posx="1255.8228146416168" posy="-402.75165796217243" width="444" height="122" side="right" fold="false" treesize="174" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="-380.75165796217243" maxwidth="400">
+                                <text data="It configures your Spring Boot application according to your classpath, annotations, and any other configuration declarations"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="53" posx="1827.8228146416168" posy="-428.75165796217243" width="421" height="174" side="right" fold="false" treesize="174" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1849.8228146416168" posy="-406.75165796217243" maxwidth="400">
+                                    <text data="When you create either a Maven or Gradle project, and you specify dependencies (pom.xml or build.gradle, respectively) you are helping Spring Boot to make a decision based on your dependencies."/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                </node>
+                              </nodes>
+                            </node>
+                            <node id="54" posx="1255.8228146416168" posy="-254.75165796217243" width="432" height="148" side="right" fold="false" treesize="148" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="-232.75165796217243" maxwidth="400">
+                                <text data="Spring Boot starts by importing missing dependencies, such as the org.springframework.web.bind.annotation.* annotation, among other imports."/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="55" posx="1255.8228146416168" posy="-106.7516579621722" width="428" height="174" side="right" fold="false" treesize="174" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="-84.751657962172203" maxwidth="400">
+                                <text data="It identifies that you need a spring-boot-starter-web because you marked your class and method with the&#10;@RestController and the @GetMapping annotations"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="56" posx="1255.8228146416168" posy="67.24834203782757" width="385" height="148" side="right" fold="false" treesize="148" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="89.24834203782757" maxwidth="400">
+                                <text data="It adds the necessary annotation that triggers &#10;auto-configuration, the @EnableAutoConfiguration annotation"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="57" posx="1255.8228146416168" posy="215.24834203782757" width="442" height="96" side="right" fold="false" treesize="96" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1277.8228146416168" posy="237.24834203782757" maxwidth="400">
+                                <text data="And then it adds the main method that is the entry point for the application"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="58" posx="860.82281464161679" posy="450.24834203782848" width="311" height="92" side="right" fold="false" treesize="370" color="#f9c440" colorroot="true" layout="Para a direita" sticker="puzzle" group="false">
+                          <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="936.82281464161679" posy="483.24834203782848" maxwidth="400">
+                            <text data="@SpringBootApplication"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="59" posx="1299.8228146416168" posy="311.24834203782848" width="392" height="96" side="right" fold="false" treesize="96" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1321.8228146416168" posy="333.24834203782848" maxwidth="400">
+                                <text data="inherits @EnableAutoConfiguration,&#10;@Configuration, and @ComponentScan"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                            <node id="60" posx="1299.8228146416168" posy="409.24834203782848" width="423" height="92" side="right" fold="false" treesize="96" color="#f9c440" colorroot="false" layout="Para a direita" sticker="puzzle" group="false">
+                              <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1375.8228146416168" posy="442.24834203782848" maxwidth="400">
+                                <text data="Disable a Specific Auto-Configuration"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="61" posx="1850.8228146416168" posy="407.24834203782848" width="433" height="96" side="right" fold="false" treesize="96" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="128" branchradius="25" linktype="curved" linkwidth="3" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="2" nodefill="false" nodemargin="16" nodepadding="6" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1872.8228146416168" posy="429.24834203782848" maxwidth="400">
+                                    <text data="@EnableAutoConfiguration(exclude=[ActiveMQAutoConfiguration.class])"/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                </node>
+                              </nodes>
+                            </node>
+                            <node id="62" posx="1299.8228146416168" posy="503.24834203782848" width="425" height="178" side="right" fold="false" treesize="178" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1323.8228146416168" posy="527.24834203782848" maxwidth="400">
+                                <text data="Em Aplicativos Spring, podemos usar essas anota&#xE7;&#xF5;es para seguir a Convetion Over Configuration (Padr&#xE3;o Conven&#xE7;&#xE3;o acima de Configura&#xE7;&#xE3;o), tornando seus aplicativos mais f&#xE1;ceis de desenvolver e manter."/>
+                              </nodename>
+                              <nodenote></nodenote>
+                            </node>
+                          </nodes>
+                        </node>
+                        <node id="63" posx="860.82281464161679" posy="681.24834203782848" width="151" height="74" side="right" fold="false" treesize="74" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
+                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="884.82281464161679" posy="705.24834203782848" maxwidth="400">
+                            <text data="Spring Data"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="64" posx="860.82281464161679" posy="755.24834203782848" width="165" height="74" side="right" fold="false" treesize="74" color="#f9c440" colorroot="true" layout="Para a direita" group="false">
+                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="884.82281464161679" posy="779.24834203782848" maxwidth="400">
+                            <text data="Spring AMQP"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="65" posx="860.82281464161679" posy="829.24834203782848" width="209" height="74" side="right" fold="false" treesize="74" color="#f9c440" colorroot="false" layout="Para a direita" group="false">
+                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="884.82281464161679" posy="853.24834203782848" maxwidth="400">
+                            <text data="Spring Integration"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                        <node id="66" posx="860.82281464161679" posy="1521.248342037828" width="179" height="96" side="right" fold="false" treesize="1332" color="#f37329" colorroot="true" layout="Para a direita" sticker="settings" group="false">
+                          <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                          <nodename posx="938.82281464161679" posy="1556.248342037828" maxwidth="300">
+                            <text data="Features"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                          <nodes>
+                            <node id="67" posx="1147.8228146416168" posy="1070.248342037828" width="203" height="74" side="right" fold="false" treesize="408" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1171.8228146416168" posy="1094.248342037828" maxwidth="300">
+                                <text data="SpringApplication"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="68" posx="1458.8228146416168" posy="942.24834203782848" width="220" height="74" side="right" fold="false" treesize="152" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1482.8228146416168" posy="966.24834203782848" maxwidth="300">
+                                    <text data=" ApplicationContext"/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                  <nodes>
+                                    <node id="69" posx="1786.8228146416168" posy="903.24834203782848" width="314" height="152" side="right" fold="false" treesize="152" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodename posx="1810.8228146416168" posy="927.24834203782848" maxwidth="300">
+                                        <text data="I recommend Pro Spring Framework 5 (Apress, 2017) in which the authors explain everything about Spring."/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                  </nodes>
+                                </node>
+                                <node id="70" posx="1458.8228146416168" posy="1055.248342037828" width="444" height="256" side="right" fold="false" treesize="256" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1482.8228146416168" posy="1079.248342037828" maxwidth="400">
+                                    <text data="This class provides the bootstrap for the Spring Boot application that is executed in the main method.&#10;&#10;Allows you to configure the way your app behaves, and you have control over the main **ApplicationContext** where all your Spring beans are used."/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                </node>
+                              </nodes>
+                            </node>
+                            <node id="71" posx="1147.8228146416168" posy="1461.248342037828" width="186" height="74" side="right" fold="false" treesize="374" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1171.8228146416168" posy="1485.248342037828" maxwidth="300">
+                                <text data="Custom Banner"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="72" posx="1441.8228146416168" posy="1409.248342037828" width="340" height="178" side="right" fold="false" treesize="374" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1465.8228146416168" posy="1433.248342037828" maxwidth="300">
+                                    <text data="Every time you run your application, you see a banner displayed at the beginning of the application. &#10;**It can be customized**"/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                  <nodes>
+                                    <node id="73" posx="1889.8228146416168" posy="1311.248342037828" width="348" height="210" side="right" fold="false" treesize="210" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodeimage id="1" x="0" y="0" w="600" h="255"/>
+                                      <nodename posx="1913.8228146416168" posy="1471.248342037828" maxwidth="300">
+                                        <text data=""/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                    <node id="74" posx="1889.8228146416168" posy="1521.248342037828" width="348" height="164" side="right" fold="false" treesize="164" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodeimage id="3" x="0" y="0" w="600" h="162"/>
+                                      <nodename posx="1913.8228146416168" posy="1635.248342037828" maxwidth="300">
+                                        <text data=""/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                  </nodes>
+                                </node>
+                              </nodes>
+                            </node>
+                            <node id="75" posx="1147.8228146416168" posy="1923.248342037828" width="267" height="74" side="right" fold="false" treesize="550" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                              <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                              <nodename posx="1171.8228146416168" posy="1947.248342037828" maxwidth="300">
+                                <text data="SpringApplicationBuilder"/>
+                              </nodename>
+                              <nodenote></nodenote>
+                              <nodes>
+                                <node id="76" posx="1522.8228146416168" posy="1743.248342037828" width="446" height="152" side="right" fold="false" treesize="268" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="400" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1546.8228146416168" posy="1767.248342037828" maxwidth="400">
+                                    <text data="The SpringApplicationBuilder class provides a fluent API and is a builder for the **SpringApplication** and the **ApplicationContext** instances."/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                  <nodes>
+                                    <node id="77" posx="2076.8228146416168" posy="1685.248342037828" width="348" height="268" side="right" fold="false" treesize="268" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodeimage id="5" x="0" y="0" w="600" h="371"/>
+                                      <nodename posx="2100.8228146416168" posy="1903.248342037828" maxwidth="300">
+                                        <text data=""/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                  </nodes>
+                                </node>
+                                <node id="78" posx="1522.8228146416168" posy="2044.248342037828" width="322" height="100" side="right" fold="false" treesize="282" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                  <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                  <nodename posx="1546.8228146416168" posy="2068.248342037828" maxwidth="300">
+                                    <text data="You can have a hierarchy when creating a Spring app."/>
+                                  </nodename>
+                                  <nodenote></nodenote>
+                                  <nodes>
+                                    <node id="79" posx="1952.8228146416168" posy="1953.248342037828" width="348" height="132" side="right" fold="false" treesize="132" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodeimage id="6" x="0" y="0" w="600" h="98"/>
+                                      <nodename posx="1976.8228146416168" posy="2035.248342037828" maxwidth="300">
+                                        <text data=""/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                    <node id="80" posx="1952.8228146416168" posy="2085.248342037828" width="348" height="150" side="right" fold="false" treesize="150" color="#f37329" colorroot="false" layout="Para a direita" group="false">
+                                      <style branchmargin="108" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="9" nodefont="Sans 14" nodemarkup="true"/>
+                                      <nodeimage id="7" x="0" y="0" w="600" h="134"/>
+                                      <nodename posx="1976.8228146416168" posy="2185.248342037828" maxwidth="300">
+                                        <text data=""/>
+                                      </nodename>
+                                      <nodenote></nodenote>
+                                    </node>
+                                  </nodes>
+                                </node>
+                              </nodes>
+                            </node>
+                          </nodes>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
   </nodes>
   <groups>
-    <group color="#f9c440">
+    <group color="#c6262e">
       <node id="51"/>
     </group>
   </groups>
   <connections>
-    <connection from_id="15" to_id="0" drag_x="268.87753991914178" drag_y="-618.67376607260303">
+    <connection from_id="0" to_id="86" drag_x="-307.53001999993012" drag_y="-1066.6949414902392">
       <style connectiondash="dotted" connectionlwidth="3" connectionarrow="fromto" connectionpadding="4" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="0" to_id="75" drag_x="180.62440678112216" drag_y="-1823.3576548258688">
+    <connection from_id="0" to_id="88" drag_x="-322.71640063818995" drag_y="-862.02595360111445">
       <style connectiondash="dotted" connectionlwidth="3" connectionarrow="fromto" connectionpadding="4" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="0" to_id="82" drag_x="61.030363384054453" drag_y="-1730.5397526791326">
+    <connection from_id="0" to_id="81" drag_x="-187.74106025556512" drag_y="-1266.4517215672381">
       <style connectiondash="dotted" connectionlwidth="3" connectionarrow="fromto" connectionpadding="4" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
     </connection>
-    <connection from_id="0" to_id="80" drag_x="-44.800691303452936" drag_y="-1743.1534902204735">
-      <style connectiondash="dotted" connectionlwidth="3" connectionarrow="fromto" connectionpadding="4" connectionfont="Sans 10" connectiontwidth="100"/>
-      <title></title>
-      <note></note>
-    </connection>
-    <connection from_id="15" to_id="83" drag_x="47.123584412699103" drag_y="534.36138969554406">
+    <connection from_id="0" to_id="89" drag_x="-146.83652780630018" drag_y="-208.60681136386756">
       <style connectiondash="dotted" connectionlwidth="3" connectionarrow="fromto" connectionpadding="4" connectionfont="Sans 10" connectiontwidth="100"/>
       <title></title>
       <note></note>
