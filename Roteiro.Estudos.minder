@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<minder version="1.13.1">
+  <theme name="dark" label="Escuro" index="5"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-360" y="328" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="167.8853759765625" posy="399.50576782226562" width="255" height="70" side="right" fold="false" treesize="839" layout="Para a direita" group="false">
+      <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+      <nodename posx="190.8853759765625" posy="422.50576782226562" maxwidth="300">
+        <text data="Organiza&#xE7;&#xE3;o Estudos"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="5" posx="532.8853759765625" posy="259.50576782226562" width="112" height="70" side="right" fold="false" treesize="350" color="#68b723" colorroot="false" layout="Para a direita" group="false">
+          <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+          <nodename posx="555.8853759765625" posy="282.50576782226562" maxwidth="300">
+            <text data="Livros"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="21" posx="754.8853759765625" posy="120.50576782226562" width="178" height="70" side="right" fold="false" treesize="210" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="143.50576782226562" maxwidth="300">
+                <text data="N&#xC3;O INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="16" posx="1042.8853759765625" posy="50.505767822265625" width="222" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                  <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+                  <nodename posx="1065.8853759765625" posy="73.505767822265625" maxwidth="300">
+                    <text data="Kotlin in Action"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="6" posx="1042.8853759765625" posy="120.50576782226562" width="233" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                  <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+                  <nodename posx="1065.8853759765625" posy="143.50576782226562" maxwidth="300">
+                    <text data="Pro Spring Boot 2"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="38" posx="1042.8853759765625" posy="190.50576782226562" width="255" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="false" layout="Para a direita" group="false">
+                  <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+                  <nodename posx="1065.8853759765625" posy="213.50576782226562" maxwidth="300">
+                    <text data="Kubernets in Action"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="19" posx="754.8853759765625" posy="260.50576782226562" width="134" height="70" side="right" fold="false" treesize="70" color="#68b723" colorroot="false" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="283.50576782226562" maxwidth="300">
+                <text data="INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="4" posx="998.8853759765625" posy="260.50576782226562" width="178" height="70" side="right" fold="false" treesize="70" color="#68b723" colorroot="false" layout="Para a direita" group="false">
+                  <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+                  <nodename posx="1021.8853759765625" posy="283.50576782226562" maxwidth="300">
+                    <text data="Pro Spring 5"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="22" posx="754.8853759765625" posy="330.50576782226562" width="145" height="70" side="right" fold="false" treesize="70" color="#3689e6" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="353.50576782226562" maxwidth="300">
+                <text data="CONCLU&#xCD;DO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="532.8853759765625" posy="539.50576782226562" width="123" height="70" side="right" fold="false" treesize="210" color="#f37329" colorroot="true" layout="Para a direita" group="false">
+          <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+          <nodename posx="555.8853759765625" posy="562.50576782226562" maxwidth="300">
+            <text data="Artigos"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="26" posx="765.8853759765625" posy="469.50576782226562" width="178" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="788.8853759765625" posy="492.50576782226562" maxwidth="300">
+                <text data="N&#xC3;O INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="765.8853759765625" posy="539.50576782226562" width="134" height="70" side="right" fold="false" treesize="70" color="#68b723" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="788.8853759765625" posy="562.50576782226562" maxwidth="300">
+                <text data="INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="28" posx="765.8853759765625" posy="609.50576782226562" width="145" height="70" side="right" fold="false" treesize="70" color="#3689e6" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="788.8853759765625" posy="632.50576782226562" maxwidth="300">
+                <text data="CONCLU&#xCD;DO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="15" posx="532.8853759765625" posy="749.50576782226562" width="112" height="70" side="right" fold="false" treesize="210" color="#7a36b1" colorroot="false" layout="Para a direita" group="false">
+          <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+          <nodename posx="555.8853759765625" posy="772.50576782226562" maxwidth="300">
+            <text data="V&#xED;deos"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="29" posx="754.8853759765625" posy="679.50576782226562" width="178" height="70" side="right" fold="false" treesize="70" color="#c6262e" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="702.50576782226562" maxwidth="300">
+                <text data="N&#xC3;O INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="754.8853759765625" posy="749.50576782226562" width="134" height="70" side="right" fold="false" treesize="70" color="#68b723" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="772.50576782226562" maxwidth="300">
+                <text data="INICIADO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="31" posx="754.8853759765625" posy="819.50576782226562" width="145" height="70" side="right" fold="false" treesize="70" color="#3689e6" colorroot="true" layout="Para a direita" group="false">
+              <style branchmargin="110" branchradius="25" linktype="curved" linkwidth="2" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="3" nodefill="false" nodemargin="15" nodepadding="8" nodefont="FiraCode Nerd Font 14" nodemarkup="true"/>
+              <nodename posx="777.8853759765625" posy="842.50576782226562" maxwidth="300">
+                <text data="CONCLU&#xCD;DO"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>
